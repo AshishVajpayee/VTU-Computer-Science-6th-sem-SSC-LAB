@@ -75,3 +75,10 @@ After the successful Run of the lex and Yacc program the a.exe file is generated
 
 ## Tutorials
 - ["Installation and Full Setup on YouTube"](https://www.youtube.com/channel/UCHwlUzuPlNstefBn8WnD6gw) - *Computer Science Geeks* <br>
+
+<p align="center">
+  Made with <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">
+<img class="emoji" alt="heart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"></g-emoji> by <a href="https://github.com/AshishVajpayee">Ashish Vajpayee</a>
+</p>
+
+
